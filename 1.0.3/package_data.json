@@ -1,0 +1,52 @@
+{
+    "name": "--can-you-install",
+    "version": "1.0.3",
+    "description": "a general knowledge quiz",
+    "license": "MIT",
+    "author": {
+        "name": "Juyeong Maing",
+        "email": "mjy9088@naver.com",
+        "url": "https://github.com/mjy9088"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mjy9088/--can-you-install.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mjy9088/--can-you-install/issues"
+    },
+    "homepage": "https://github.com/mjy9088/--can-you-install#readme",
+    "_id": "--can-you-install@1.0.3",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "7.24.2",
+    "dist": {
+        "integrity": "sha512-IEpa11KGk2EYDO7w0yfwEs/w2CxROx948TF46164WaeaYmpCND4vUMK1j0+KSzgH1b/rSQRXCQxSAcxo/Iw7kw==",
+        "shasum": "759e4781d6a311f6a3671f464241193b4d853937",
+        "tarball": "https://registry.npmjs.org/--can-you-install/-/--can-you-install-1.0.3.tgz",
+        "fileCount": 2,
+        "unpackedSize": 677,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiKYmlACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrLxw/+MqhW/iZPTyQjsMGgAF/9nskU85Zl8BDDQohlNODsxspYcJwT\r\niYUjGu39VvlVQRzyEDoq+zkOLzJRpyTqShwf92S1RAtEJ99gwuWC8V7HHjUt\r\nCnlK7Tufy0+Jormbqbm+IdDB0vP9Wg5JQklMv3T1zPlgvQZ9/C6OWtitwmCN\r\nr38jzsWJ1wqN/HCa1I2gNSayrXvP3qcgCNGpAvtL5Tz04xDFegB5TkOpJeA0\r\nQM8bGslHXWTLMw01bX+9KCG3nNT5koe7b1FDzjXKQef9zOJPaRCxmdpBKDAw\r\nywgW8sIjIUSGfDWzRSZwta9ZXZ4dWD17NgueJ4mpnEwj84mlOmwvPd0mK+jN\r\nUHoNxDRDO3ADLJD5FsaCFncSSIvaCX+RT7QmhueaAhewE0eZ89mQm7+yVVL/\r\nAtMCmiqy1dV31CdkrSflUDAFLC8ODKl+piiFYX19CXS6lMioi3Ey20BkHgjw\r\no+v2enXbZJaIlxv0Sqa9hbxXt7sQQzixBA2UpVMyBX0QftoRMltPPKdam5Ds\r\nMASvJ2Ds2x65Pt+RXQFT6xkgvP9auu/0YZgE7tVFZ5F3bBB2n3fRkQioBVkW\r\nm6XI9vK3AB8h0UdVGnbEDKz2J5TMEMySLRcBg2+oJvSIYLtK6/k5yBjEBvW+\r\nkykSTmiCDbWGleRXWM6ZFPZKlbKKgukbBOw=\r\n=+l9W\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQD8I+OxHNPZBgELgGueLcz0RsLYWKdDgesmJPulOQMPYAIgRcBeKEs6fI2GMcCWJkj4nBLR5y8JnoUzjVAYu2ogwfs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mjy9088",
+        "email": "mjy9088@naver.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mjy9088",
+            "email": "mjy9088@naver.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--can-you-install_1.0.3_1646889381105_0.9014065942764415"
+    },
+    "_hasShrinkwrap": false
+}
