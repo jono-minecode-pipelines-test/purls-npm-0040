@@ -1,0 +1,38 @@
+{
+    "name": "--can-you-install",
+    "version": "1.0.2",
+    "description": "[![npm version](https://badge.fury.io/js/--can-you-install.svg)](https://badge.fury.io/js/--can-you-install)",
+    "_id": "--can-you-install@1.0.2",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "7.24.2",
+    "dist": {
+        "integrity": "sha512-iQVZLcF6f0wR2fZ35egrWXuOTEPSKabTzV4iaUWsfYRsqV0p3zGP7oGUn5VPxTlhrx8tYiUzdy6BBbOora7f6g==",
+        "shasum": "f15a3fc8c4540aae02221e5519ce3b10cbc3c4a7",
+        "tarball": "https://registry.npmjs.org/--can-you-install/-/--can-you-install-1.0.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 304,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiKYYZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq3qA/8Cez/i+stPgKVCdOlpshXDCU4AsVkIrGhOZjuOsG/bkb1PftF\r\n5OD4hcmnHYRnHZXQFrwKGE3X9QGIbqKT2Z8gVqd3kJg+wy/aaN0h577QylP9\r\nkmHUC8EQ/TIpnhA6jHQ6B5bMN7BdtIpFN0EMFUa6cWHuh1AVS1uAY4THwueT\r\ndJh/4aKpX4uuKXZygi7Z2jpS5ZWhfmY5puacWcimIRhP4UC2UC4S2TsFYCMl\r\npbUV/PUgPUDoGLh8iTVWxRm9j3zQBpmD2zPpW0gY3S3Q39kxvpUQ3GUE8NFe\r\naYYHBU3Y0vzWGw/HdT4dd2+DgSkp47jr9h6oWpf78UmL14ofRCiWjoY0+phR\r\nX08O2IkB9rH3M7rFEa3Ga3ImS2XaYsby7IpyUrRJjKLSRX93ewopbavfSY32\r\nuCCx5Qd1I4FWO2izu9ka7hAqMqku+hZ+zKjj0y4/cs55ZtNPEWdSO3OEUvtP\r\nfKCNGuoJ0DEwoSz7OA3AWQBJoYrl4iEVnfeALjN0bcDG+VlZgXAtnU0AaK98\r\noJEaaE7r/g+lpoOfiXxnSa+ZN+7MGrvbDI0sPy3j1pq11WkAh1ISlZjn7JrX\r\n4gVZrA4yKGr7eRxroJd/e9Lp7xcQzvZMHPFn5cJ+/SBtRxu5XJ/Kc2Aw9JAi\r\ngTzAULw7BGPE2OZ91fsLGFB0o/phZiJRPg4=\r\n=NaAs\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDVxDKRa0fwrNVUvxW63pu9KBf3Q59xmkl84KoJDD3OhAIhALBS1z9f++ZqaG7Dr5XEOEE+FPQX183TO0G3Une6PA7d"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mjy9088",
+        "email": "mjy9088@naver.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mjy9088",
+            "email": "mjy9088@naver.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--can-you-install_1.0.2_1646888473312_0.47090171174850615"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,37 @@
+{
+    "name": "--can-you-install",
+    "version": "1.0.0",
+    "_id": "--can-you-install@1.0.0",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "7.24.2",
+    "dist": {
+        "integrity": "sha512-6F9WGtTnPQgNS501xwNTaJcxJy6cNtgAjUMNBfhkqmcA7MDIWAD/ozQC5JpkLFxnjNZ5puetJGR1gWff5WiZ4w==",
+        "shasum": "9cc8a0d46c710175d441dfae9308caf222688726",
+        "tarball": "https://registry.npmjs.org/--can-you-install/-/--can-you-install-1.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 56,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiKYQeACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrRVQ//eNCSuKY+RaiaYJzItJ4hErlt1G5u8y11+FkrJQCxDm8B5F0u\r\n6JznL9BjOIwkh/BF7Xht1etpjknpetvplxs9oq/OvPtLmv7ZgwWYPSlKtwaA\r\nD+gD55GHjFrwqLW1xCNnlVBsx6VtvDwLc9imvhkTGU+JFt5NHaS9k+WXDNgT\r\ntnIbGfq3SGYkfs0W77JJjuBj+afJRUznHavCTSGxCP0V/TBsaBGdEyWuLCEj\r\nwUKXIBsg7AkUInWjoB2KhGpQlmzDv5+s8XTaBhQCwV0ra3fFZMa6hDuk228e\r\n02/679n/p9M5crfbIINNfxC7RweW34NDRTfF3fo0spucEesRPBZKOOZxvOrG\r\nIIggjfQXVtIpUuQjVx0pkDoIysZmwpT9xNWx+EeB3u9vRUm42b99rMAkARHg\r\nt90TpK0Szz6BkrrtR/l4K3/aseJQswjlq0Smd9i4m8FkEJqfTnO1rFMkdPuS\r\nNry7yZTnMsWTVZu9Ec422jeKBPbwAPRvUdgyXbsQ2+Ni0jkYEr/y5R+3Ggea\r\naoKzPgcv4jWF7pNp4D43f1syRnFej7uOGriNm0KUXB/UlFcIEiAG1Kr/kCGb\r\n0ZNjsJyVarnsKr7qqA/OZpO47ioTe8UnCQiGg8fv+pI2OyDdBKDm4wcDl8XP\r\nsPcRjXvpF/X0+9ly+uAiJmbRCBUcGOQsHE0=\r\n=TlEL\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC8rCCDjco1vjzrgH5Hz1Xq0Iqvlh2KDPONfuDSMay3iwIhALwIegpKB6JA37X0qhs4hS+cxnLw6SvmgxwKaVvmf1F7"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "mjy9088",
+        "email": "mjy9088@naver.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mjy9088",
+            "email": "mjy9088@naver.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--can-you-install_1.0.0_1646887966062_0.6957678149688091"
+    },
+    "_hasShrinkwrap": false
+}
